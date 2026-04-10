@@ -112,7 +112,7 @@ Or just drop `index.html` into any static host:
 
 ## 🌐 Live Demo
 
-> [**shivinsingh.dev**]([https://portfolio-gilt-two-43.vercel.app/])
+> [**shivinsingh.dev**](https://portfolio-gilt-two-43.vercel.app/)
 
 ---
 
