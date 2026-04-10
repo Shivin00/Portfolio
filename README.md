@@ -96,13 +96,13 @@ No build step. No npm. No framework.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/portfolio.git
+git clone https://github.com/Shivin00/portfolio.git
 
 # Open directly in browser
-open shivin_portfolio.html
+open index.html
 ```
 
-Or just drop `shivin_portfolio.html` into any static host:
+Or just drop `index.html` into any static host:
 
 - **GitHub Pages** — push to `gh-pages` branch
 - **Netlify** — drag and drop the file
@@ -112,7 +112,7 @@ Or just drop `shivin_portfolio.html` into any static host:
 
 ## 🌐 Live Demo
 
-> [**shivinsingh.dev**](https://github.com/YOUR_USERNAME/portfolio) ← replace with your live URL
+> [**shivinsingh.dev**](https://github.com/Shivin00/portfolio) ← replace with your live URL
 
 ---
 
